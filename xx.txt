@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 fwfqferqwfergffrewgewgvg
 odayyameen
+=======
+>>>>>>> parent of 051be73... modify xx
